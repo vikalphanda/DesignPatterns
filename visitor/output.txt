@@ -1,0 +1,5 @@
+Vikalps-MacBook-Pro:Debug vikalphanda$ ./VisitorTests 
+Circle with radius 10 units has area 314.159 units squared.
+Rectangle with height 10 units and width 20 units has area 200 units squared.
+Triangle with base 10 units and height 6 units has area 30 units squared.
+
